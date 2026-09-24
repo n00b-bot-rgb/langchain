@@ -1278,7 +1278,7 @@ wheels = [
 
 [[package]]
 name = "langchain-core"
-version = "1.6.3"
+version = "1.6.4"
 source = { editable = "../core" }
 dependencies = [
     { name = "httpx" },
