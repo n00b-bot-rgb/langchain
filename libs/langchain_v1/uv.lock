@@ -2442,7 +2442,7 @@ typing = [
 
 [[package]]
 name = "langchain-anthropic"
-version = "1.7.2"
+version = "1.7.4"
 source = { editable = "../partners/anthropic" }
 dependencies = [
     { name = "anthropic" },
@@ -2581,7 +2581,7 @@ wheels = [
 
 [[package]]
 name = "langchain-core"
-version = "1.6.3"
+version = "1.6.4"
 source = { editable = "../core" }
 dependencies = [
     { name = "httpx" },
@@ -2785,7 +2785,7 @@ wheels = [
 
 [[package]]
 name = "langchain-openai"
-version = "1.6.2"
+version = "1.6.6"
 source = { editable = "../partners/openai" }
 dependencies = [
     { name = "certifi" },
